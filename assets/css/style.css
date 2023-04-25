@@ -115,6 +115,7 @@ main {
   display: inline;
 }
 
+
 .profile-picture img{
 border-radius: 50%;
 float: left;
@@ -226,6 +227,7 @@ margin-left:0px 0px 0px 30px;
 }
 
 /* portfolio project images */
+
 .portfolio-repository {
   background-image: url("../images/02-run-buddy.jpg");
 }
@@ -239,7 +241,7 @@ margin-left:0px 0px 0px 30px;
 }
 
 .refactory-respitory {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/02-run-buddy.jpg");
 }
 
 .refactoring-project {
