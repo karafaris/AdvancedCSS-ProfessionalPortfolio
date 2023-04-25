@@ -41,8 +41,3 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Installation
 Clone the code from the main Github remote repository to your local repository.
 
-## Tests
-
-The following animation shows the web application's appearance and functionality:
-
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
