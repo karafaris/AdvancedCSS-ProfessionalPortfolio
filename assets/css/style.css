@@ -115,6 +115,13 @@ main {
   display: inline;
 }
 
+
+.profile-picture img{
+border-radius: 50%;
+float: left;
+margin-left:0px 0px 0px 30px;
+}
+
 .page-wrapper {
   max-width: 88%;
   margin-left: auto;
@@ -220,20 +227,21 @@ main {
 }
 
 /* portfolio project images */
-.refactory-respitory {
+
+.portfolio-repository {
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.portfolio-repository {
+.studyguide {
   background-image: url("../images/02-portfolio-1.jpg");
 }
 
-.studyguide {
+.studyguide-repository {
   background-image: url("../images/02-portfolio-2.jpg");
 }
 
-.studyguide-repository{
-  background-image: url("../images/02-portfolio-3.jpg");
+.refactory-respitory {
+  background-image: url("../images/02-run-buddy.jpg");
 }
 
 .refactoring-project {
