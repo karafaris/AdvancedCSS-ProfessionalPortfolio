@@ -229,27 +229,27 @@ margin-left:0px 0px 0px 30px;
 /* portfolio project images */
 
 .workdayscheduler {
-  background-image: url("../images/02-run-buddy.jpg");
-}
-
-.webapis {
-  background-image: url("../images/02-portfolio-1.jpg");
-}
-
-.weatherdashboard {
-  background-image: url("../images/02-portfolio-2.jpg");
-}
-
-.refactory-respitory {
-  background-image: url("../images/02-run-buddy.jpg");
-}
-
-.READMEgenerator {
   background-image: url("../images/02-portfolio-4.jpg");
 }
 
+.webapis {
+  background-image: url("../images/02-portfolio-2.jpg");
+}
+
+.weatherdashboard {
+  background-image: url("../images/02-portfolio-1.jpg");
+}
+
+.refactory-respitory {
+  background-image: url("../images/02-portfolio-4.jpg");
+}
+
+.READMEgenerator {
+  background-image: url("../images/02-portfolio-5.jpg");
+}
+
 .passwordgenerator-project {
-background-image: url("../images/02-portfolio-1.jpg");
+background-image: url("../images/02-portfolio-3.jpg");
 }
 
 /* end portfolio project images */
