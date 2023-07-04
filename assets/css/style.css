@@ -228,15 +228,15 @@ margin-left:0px 0px 0px 30px;
 
 /* portfolio project images */
 
-.portfolio-repository {
+.workdayscheduler {
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.studyguide {
+.webapis {
   background-image: url("../images/02-portfolio-1.jpg");
 }
 
-.studyguide-repository {
+.weatherdashboard {
   background-image: url("../images/02-portfolio-2.jpg");
 }
 
@@ -244,8 +244,12 @@ margin-left:0px 0px 0px 30px;
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.refactoring-project {
+.READMEgenerator {
   background-image: url("../images/02-portfolio-4.jpg");
+}
+
+.passwordgenerator-project {
+background-image: url("../images/02-portfolio-1.jpg");
 }
 
 /* end portfolio project images */
