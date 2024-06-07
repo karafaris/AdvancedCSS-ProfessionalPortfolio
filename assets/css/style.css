@@ -4,9 +4,9 @@
 
 /* brand color palette */
 :root {
-  --primary: rgba(68, 88, 119, 1);
+  --primary: rgb(10, 10, 10);
   --secondary: rgba(146, 204, 206, 1);
-  --tertiary: rgba(49, 52, 61, 1);
+  --tertiary: rgb(14, 14, 15);
   --dark: rgba(28, 29, 33, 1);
   --light: rgba(238, 238, 247, 1);
 }
@@ -87,7 +87,7 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
+  background: rgb(5, 5, 5);
   background-image: url("../images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
@@ -117,9 +117,9 @@ main {
 
 
 .profile-picture img{
-border-radius: 50%;
+border-radius: 80%;
 float: left;
-margin-left:0px 0px 0px 30px;
+margin-left:0px 0px 0px 0px;
 }
 
 .page-wrapper {
